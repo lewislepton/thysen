@@ -3,7 +3,7 @@
 ***i dont plan to do any updates at all for this in the future. so please refrain from asking. but i do want to have fun with this & to hopefully learn something & put it to good use*** 😘👍
 <br><br>
 VJ application using shaders & uses OSC. this needs an OSC application for it to work. it did have a Lemur template, which is not in the repo. but it would be easy to remap to any other OSC application. there are not that many controls. 👍<br><br>
-this was built & used for the band [thysen](https://thysen.bandcamp.com) over a series of dates on a mini tour.
+this was built & used for the band [thysen](https://thysen.bandcamp.com) over a series of dates on a mini tour. you can see visuals on posts [here](https://www.instagram.com/thy.sen/) from the live shows
 
 ## dependancies:
 
